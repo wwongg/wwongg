@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontAlign=70" width="100%"/>
 
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
